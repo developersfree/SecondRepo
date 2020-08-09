@@ -1,0 +1,15 @@
+{
+  "name": "shopweb",
+  "version": "1.0.0",
+  "description": "shopwebsite",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "momin rafiq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.27"
+  }
+}
